@@ -173,7 +173,7 @@ func main() {
 			}
 
 		} else {
-			result := firstNumber1 + secondNumber2
+			result := firstNumber1 * secondNumber2
 			fmt.Println(result)
 		}
 
