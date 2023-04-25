@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Calculation {
+public class Main {
 
     public static void main(String[] args) throws ScannerException {
         String[] s = Input();
